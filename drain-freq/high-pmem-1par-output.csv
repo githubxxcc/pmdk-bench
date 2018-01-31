@@ -1,19 +1,55 @@
 thread_num,wh_num,success,abort,pc_success,pc_abort,mmap_cnt,total_time,log_size,flush_size
-1, 1, 302970,0,0, 0,0,9992,127,31
-1, 1, 335451,0,0, 0,0,9990,140,34
-1, 1, 335323,0,0, 0,0,9991,140,34
-4, 1, 411053,620638,0, 0,0,9997,127,37
-4, 1, 411290,667362,0, 0,0,9997,127,37
-4, 1, 413725,681336,0, 0,0,9997,128,37
-8, 1, 336060,1472751,0, 0,0,9999,104,30
-8, 1, 342231,1384443,0, 0,0,10000,95,28
-8, 1, 331975,1347770,0, 0,0,9999,103,30
-16, 1, 213382,1919613,0, 0,0,10002,59,17
-16, 1, 229485,1937192,0, 0,0,10001,64,18
-16, 1, 234271,1962037,0, 0,0,10001,65,19
-32, 1, 86934,1940065,0, 0,0,10008,24,7
-32, 1, 107408,1981499,0, 0,0,10007,30,8
-32, 1, 91554,1973519,0, 0,0,10011,26,7
-48, 1, 64612,1959575,0, 0,0,10041,18,5
-48, 1, 65708,1961345,0, 0,0,10026,18,5
-48, 1, 63619,1883557,0, 0,0,10033,17,5
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+1, 1, 312435,0,0, 0,0,9991,131,32
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+1, 1, 278036,0,0, 0,0,9992,116,28
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+1, 1, 312699,0,0, 0,0,9991,131,32
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+4, 1, 427379,673336,0, 0,0,9997,132,39
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+4, 1, 409909,672184,0, 0,0,9997,127,37
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+4, 1, 414691,676964,0, 0,0,9997,129,38
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+8, 1, 349309,1426354,0, 0,0,9999,108,32
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+8, 1, 345011,1449884,0, 0,0,9999,107,31
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+8, 1, 320046,1408410,0, 0,0,9999,99,29
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+16, 1, 191852,1884867,0, 0,0,10003,53,15
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+16, 1, 231135,1891344,0, 0,0,10006,64,19
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+16, 1, 232186,1938355,0, 0,0,10002,64,19
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+32, 1, 126863,2022312,0, 0,0,10013,35,10
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+32, 1, 108901,1921731,0, 0,0,10013,30,9
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+32, 1, 95865,1959366,0, 0,0,10008,27,8
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+48, 1, 78942,1944156,0, 0,0,10021,22,6
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+48, 1, 79532,1893086,0, 0,0,10032,22,6
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+48, 1, 70978,2139939,0, 0,0,10038,20,5

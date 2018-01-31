@@ -1,19 +1,55 @@
 thread_num,wh_num,success,abort,pc_success,pc_abort,mmap_cnt,total_time,log_size,flush_size
-1, 1, 288318,0,0, 0,0,9992,120,29
-1, 1, 285806,0,0, 0,0,9992,119,29
-1, 1, 286972,0,0, 0,0,9990,120,29
-4, 4, 892261,72,0, 0,0,9994,374,91
-4, 4, 916961,90,0, 0,0,9994,385,94
-4, 4, 965488,94,0, 0,0,9993,406,99
-8, 8, 1826415,215,0, 0,0,9994,311,187
-8, 8, 1844271,178,0, 0,0,9993,319,189
-8, 8, 1797453,192,0, 0,0,9994,299,184
-16, 16, 2909302,350,0, 0,0,9995,311,298
-16, 16, 2925071,333,0, 0,0,9995,317,299
-16, 16, 2914218,352,0, 0,0,9995,313,298
-32, 32, 3368939,413,0, 0,0,9998,47,345
-32, 32, 3321581,399,0, 0,0,9999,27,340
-32, 32, 3342207,438,0, 0,0,9998,37,342
-48, 48, 3214105,431,0, 0,0,10000,394,296
-48, 48, 3442479,461,0, 0,0,10001,71,317
-48, 48, 3373002,450,0, 0,0,10000,44,311
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+1, 1, 297260,0,0, 0,0,9991,125,30
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+1, 1, 298596,0,0, 0,0,9992,124,30
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+1, 1, 297302,0,0, 0,0,9992,124,30
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+4, 4, 1046233,105,0, 0,0,9993,439,107
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+4, 4, 962750,122,0, 0,0,9994,404,98
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+4, 4, 971179,111,0, 0,0,9994,407,99
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+8, 8, 1780578,211,0, 0,0,9993,291,182
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+8, 8, 1848734,206,0, 0,0,9993,320,189
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+8, 8, 1745796,190,0, 0,0,9994,277,179
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+16, 16, 2867559,347,0, 0,0,9995,293,294
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+16, 16, 2897579,298,0, 0,0,9995,305,296
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+16, 16, 2986101,357,0, 0,0,9995,343,306
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+32, 32, 3154119,421,0, 0,0,9998,413,323
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+32, 32, 3305794,387,0, 0,0,9998,21,338
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+32, 32, 3350418,386,0, 0,0,9998,41,343
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+48, 48, 3393962,449,0, 0,0,10000,52,313
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+48, 48, 3460635,458,0, 0,0,9999,87,354
+ERROR:<unknown>: has_auto_flush 0, 
+ has_hw_flush 0 
+48, 48, 3426056,467,0, 0,0,10000,66,316
