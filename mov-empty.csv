@@ -1,4 +1,4 @@
-pmcpy_pmem_memcpy_persist: pmem_memcpy [24] [group: pmem]
+pmcpy_pmem_memcpy_persist: pmem_memcpy [24] [group: pmem],
 total-avg[sec],ops-per-second[1/sec],total-max[sec],total-min[sec],total-median[sec],total-std-dev[sec],latency-avg[nsec],latency-min[nsec],latency-max[nsec],latency-std-dev[nsec],latency-pctl-50.0%[nsec],latency-pctl-99.0%[nsec],latency-pctl-99.9%[nsec],threads,ops-per-thread,data-size,seed,repeats,thread-affinity,main-affinity,min-exe-time,operation,src-offset,dest-offset,src-mode,dest-mode,libc-memcpy,persist,no-warmup,bandwidth[MiB/s]
 0.008351,5987098.999077,0.008351,0.008351,0.008351,0.000000,187,132,21792,214.896477,140,847,1701,1,50000,128,0,1,false,-1,0,write,0,0,seq,seq,false,true,false,730.847046
 0.010892,9180957.592239,0.010892,0.010892,0.010892,0.000000,225,132,27140,386.702610,140,1871,4089,2,50000,128,0,1,false,-1,0,write,0,0,seq,seq,false,true,false,1120.722362
@@ -24,7 +24,7 @@ total-avg[sec],ops-per-second[1/sec],total-max[sec],total-min[sec],total-median[
 6.605656,60554.171360,6.605656,6.605656,6.605656,0.000000,118499,6156,14573114,109566.743359,95983,492846,778390,8,50000,8192,0,1,false,-1,0,write,0,0,seq,seq,false,true,false,473.079464
 17.186945,46546.956419,17.186945,17.186945,17.186945,0.000000,301266,6520,44037923,329304.308135,224906,1406946,1963759,16,50000,8192,0,1,false,-1,0,write,0,0,seq,seq,false,true,false,363.648097
 42.501229,37645.970623,42.501229,42.501229,42.501229,0.000000,734231,4415,583303500,1556922.619184,522297,4204759,7878361,32,50000,8192,0,1,false,-1,0,write,0,0,seq,seq,false,true,false,294.109145
-pmcpy_pmem_memcpy_nodrain: pmem_memcpy [24] [group: pmem]
+pmcpy_pmem_memcpy_nodrain: pmem_memcpy [24] [group: pmem],
 total-avg[sec],ops-per-second[1/sec],total-max[sec],total-min[sec],total-median[sec],total-std-dev[sec],latency-avg[nsec],latency-min[nsec],latency-max[nsec],latency-std-dev[nsec],latency-pctl-50.0%[nsec],latency-pctl-99.0%[nsec],latency-pctl-99.9%[nsec],threads,ops-per-thread,data-size,seed,repeats,thread-affinity,main-affinity,min-exe-time,operation,src-offset,dest-offset,src-mode,dest-mode,libc-memcpy,persist,no-warmup,bandwidth[MiB/s]
 0.007422,6736532.593500,0.007422,0.007422,0.007422,0.000000,168,118,57102,364.006396,134,828,1600,1,50000,128,0,1,false,-1,0,write,0,0,seq,seq,false,false,false,822.330639
 0.010736,9314876.836370,0.010736,0.010736,0.010736,0.000000,219,128,62361,468.804512,134,2232,4123,2,50000,128,0,1,false,-1,0,write,0,0,seq,seq,false,false,false,1137.069926
@@ -50,7 +50,7 @@ total-avg[sec],ops-per-second[1/sec],total-max[sec],total-min[sec],total-median[
 7.022567,56959.230973,7.022567,7.022567,7.022567,0.000000,130635,5843,20990610,118914.484353,109306,441142,612933,8,50000,8192,0,1,false,-1,0,write,0,0,seq,seq,false,false,false,444.993992
 16.192903,49404.360640,16.192903,16.192903,16.192903,0.000000,280482,6355,57251844,332112.806585,201599,1476061,2035073,16,50000,8192,0,1,false,-1,0,write,0,0,seq,seq,false,false,false,385.971567
 40.657709,39352.930307,40.657709,40.657709,40.657709,0.000000,692458,4399,709703050,1590481.847791,486046,3722477,7890851,32,50000,8192,0,1,false,-1,0,write,0,0,seq,seq,false,false,false,307.444768
-pmcpy_libc_memcpy_persist: pmem_memcpy [24] [group: pmem]
+pmcpy_libc_memcpy_persist: pmem_memcpy [24] [group: pmem],
 total-avg[sec],ops-per-second[1/sec],total-max[sec],total-min[sec],total-median[sec],total-std-dev[sec],latency-avg[nsec],latency-min[nsec],latency-max[nsec],latency-std-dev[nsec],latency-pctl-50.0%[nsec],latency-pctl-99.0%[nsec],latency-pctl-99.9%[nsec],threads,ops-per-thread,data-size,seed,repeats,thread-affinity,main-affinity,min-exe-time,operation,src-offset,dest-offset,src-mode,dest-mode,libc-memcpy,persist,no-warmup,bandwidth[MiB/s]
 0.006620,7553291.112450,0.006620,0.006620,0.006620,0.000000,152,108,19256,176.667572,115,687,1318,1,50000,128,0,1,false,-1,0,write,0,0,seq,seq,true,true,false,922.032607
 0.009711,10297276.185098,0.009711,0.009711,0.009711,0.000000,202,108,45936,439.377674,115,1802,4167,2,50000,128,0,1,false,-1,0,write,0,0,seq,seq,true,true,false,1256.991722
@@ -76,7 +76,7 @@ total-avg[sec],ops-per-second[1/sec],total-max[sec],total-min[sec],total-median[
 5.679143,70433.167805,5.679143,5.679143,5.679143,0.000000,106001,1817,7694797,94444.609147,90351,471905,935955,8,50000,8192,0,1,false,-1,0,write,0,0,seq,seq,true,true,false,550.259123
 15.134874,52858.054477,15.134874,15.134874,15.134874,0.000000,282706,1612,34023960,241636.750124,232328,1059062,1589421,16,50000,8192,0,1,false,-1,0,write,0,0,seq,seq,true,true,false,412.953551
 36.358019,44006.798029,36.358019,36.358019,36.358019,0.000000,654484,1626,190745300,647805.902401,507974,2820342,3983722,32,50000,8192,0,1,false,-1,0,write,0,0,seq,seq,true,true,false,343.803110
-pmcpy_libc_memcpy_flush: pmem_memcpy [24] [group: pmem]
+pmcpy_libc_memcpy_flush: pmem_memcpy [24] [group: pmem],
 total-avg[sec],ops-per-second[1/sec],total-max[sec],total-min[sec],total-median[sec],total-std-dev[sec],latency-avg[nsec],latency-min[nsec],latency-max[nsec],latency-std-dev[nsec],latency-pctl-50.0%[nsec],latency-pctl-99.0%[nsec],latency-pctl-99.9%[nsec],threads,ops-per-thread,data-size,seed,repeats,thread-affinity,main-affinity,min-exe-time,operation,src-offset,dest-offset,src-mode,dest-mode,libc-memcpy,persist,no-warmup,bandwidth[MiB/s]
 0.006286,7954129.489728,0.006286,0.006286,0.006286,0.000000,145,102,43596,255.260619,110,818,1488,1,50000,128,0,1,false,-1,0,write,0,0,seq,seq,true,false,false,970.963072
 0.009739,10268489.159197,0.009739,0.009739,0.009739,0.000000,199,94,28497,412.783882,110,1951,4123,2,50000,128,0,1,false,-1,0,write,0,0,seq,seq,true,false,false,1253.477681
