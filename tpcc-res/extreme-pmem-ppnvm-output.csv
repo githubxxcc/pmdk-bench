@@ -10,8 +10,7 @@ Idx: 1036288, Prev_cap: 1036288, Cur_cap: 2072576,  Table:"orderline"
 Idx: 102400, Prev_cap: 102400, Cur_cap: 204800,  Table:"history"
 Idx: 131072, Prev_cap: 131072, Cur_cap: 262144,  Table:"order"
 Idx: 131072, Prev_cap: 131072, Cur_cap: 262144,  Table:"neworder"
-Idx: 2072576, Prev_cap: 2072576, Cur_cap: 4145152,  Table:"orderline"
-1, 1, 219988,11253,949190, 0,0,10000,87,21
+1, 1, 218491,11884,945282, 0,0,10000,87,21
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
@@ -23,8 +22,7 @@ Idx: 1036288, Prev_cap: 1036288, Cur_cap: 2072576,  Table:"orderline"
 Idx: 102400, Prev_cap: 102400, Cur_cap: 204800,  Table:"history"
 Idx: 131072, Prev_cap: 131072, Cur_cap: 262144,  Table:"order"
 Idx: 131072, Prev_cap: 131072, Cur_cap: 262144,  Table:"neworder"
-Idx: 2072576, Prev_cap: 2072576, Cur_cap: 4145152,  Table:"orderline"
-1, 1, 217588,11947,941186, 0,0,10000,87,21
+1, 1, 219138,11938,948909, 0,0,10000,86,21
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
@@ -36,8 +34,7 @@ Idx: 1036288, Prev_cap: 1036288, Cur_cap: 2072576,  Table:"orderline"
 Idx: 102400, Prev_cap: 102400, Cur_cap: 204800,  Table:"history"
 Idx: 131072, Prev_cap: 131072, Cur_cap: 262144,  Table:"order"
 Idx: 131072, Prev_cap: 131072, Cur_cap: 262144,  Table:"neworder"
-Idx: 2072576, Prev_cap: 2072576, Cur_cap: 4145152,  Table:"orderline"
-1, 1, 218647,11661,945739, 0,0,10000,87,21
+1, 1, 213360,11832,923198, 0,0,10000,85,20
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
@@ -45,7 +42,7 @@ Idx: 2072576, Prev_cap: 2072576, Cur_cap: 4145152,  Table:"orderline"
 Idx: 204800, Prev_cap: 204800, Cur_cap: 409600,  Table:"history"
 Idx: 262144, Prev_cap: 262144, Cur_cap: 524288,  Table:"order"
 Idx: 262144, Prev_cap: 262144, Cur_cap: 524288,  Table:"neworder"
-4, 1, 440456,23821,1905601, 332249,0,10000,136,40
+4, 1, 449756,24795,1947064, 345982,0,10000,138,41
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
@@ -53,7 +50,7 @@ Idx: 2072576, Prev_cap: 2072576, Cur_cap: 4145152,  Table:"orderline"
 Idx: 204800, Prev_cap: 204800, Cur_cap: 409600,  Table:"history"
 Idx: 262144, Prev_cap: 262144, Cur_cap: 524288,  Table:"order"
 Idx: 262144, Prev_cap: 262144, Cur_cap: 524288,  Table:"neworder"
-4, 1, 442559,24889,1917474, 370221,0,10000,136,40
+4, 1, 441957,23417,1910784, 358676,0,10000,136,40
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
@@ -61,33 +58,58 @@ Idx: 2072576, Prev_cap: 2072576, Cur_cap: 4145152,  Table:"orderline"
 Idx: 204800, Prev_cap: 204800, Cur_cap: 409600,  Table:"history"
 Idx: 262144, Prev_cap: 262144, Cur_cap: 524288,  Table:"order"
 Idx: 262144, Prev_cap: 262144, Cur_cap: 524288,  Table:"neworder"
-4, 1, 445038,24908,1927555, 368588,0,10000,137,40
+4, 1, 443744,24028,1919807, 352464,0,10000,136,40
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
 Idx: 4145152, Prev_cap: 4145152, Cur_cap: 8290304,  Table:"orderline"
 Idx: 409600, Prev_cap: 409600, Cur_cap: 819200,  Table:"history"
-8, 1, 538384,29743,2328493, 666710,0,10000,165,48
+8, 1, 514190,28244,2224902, 685042,0,10000,158,46
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
 Idx: 4145152, Prev_cap: 4145152, Cur_cap: 8290304,  Table:"orderline"
 Idx: 409600, Prev_cap: 409600, Cur_cap: 819200,  Table:"history"
-8, 1, 519452,29077,2249036, 670132,0,10000,160,47
+8, 1, 531495,29833,2302273, 688651,0,10000,164,48
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
 Idx: 4145152, Prev_cap: 4145152, Cur_cap: 8290304,  Table:"orderline"
-8, 1, 518040,28129,2240343, 633416,0,10000,159,47
+Idx: 409600, Prev_cap: 409600, Cur_cap: 819200,  Table:"history"
+8, 1, 525048,28829,2272862, 658593,0,10000,161,47
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
-16, 1, 551123,30493,2386231, 1044368,0,10000,170,50
+16, 1, 540654,29715,2341300, 1005185,0,10000,167,49
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
-16, 1, 553461,29971,2395126, 982925,0,10000,171,50
+16, 1, 538618,30043,2333421, 989741,0,10000,166,49
 Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
 Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
 Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
-16, 1, 563374,30444,2436770, 1027896,0,10000,173,51
+16, 1, 552492,30221,2391181, 1013052,0,10000,170,50
+Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
+Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
+Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
+32, 1, 545958,29531,2363234, 1279593,0,10001,168,49
+Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
+Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
+Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
+32, 1, 533875,29113,2308479, 1224745,0,10002,164,48
+Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
+Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
+Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
+32, 1, 530362,28645,2294146, 1263603,0,10002,163,48
+Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
+Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
+Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
+48, 1, 462052,26313,2002940, 1413918,0,10005,142,42
+Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
+Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
+Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
+48, 1, 410574,21766,1774680, 1345174,0,10003,126,37
+Idx: 4096, Prev_cap: 4096, Cur_cap: 8192,  Table:"customer"
+Idx: 8192, Prev_cap: 8192, Cur_cap: 16384,  Table:"customer"
+Idx: 16384, Prev_cap: 16384, Cur_cap: 32768,  Table:"customer"
+48, 1, 452486,24330,1957840, 1356315,0,10003,139,41

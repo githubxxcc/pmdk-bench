@@ -1,27 +1,19 @@
 thread_num,wh_num,success,abort,pc_success,pc_abort,mmap_cnt,total_time,log_size,flush_size
-1, 1, 316016,0,0, 0,0,9990,132,0
-1, 1, 353759,0,0, 0,0,9990,148,0
-1, 1, 325193,0,0, 0,0,9991,136,0
-thread 'TID-4' panicked at 'order empty', libcore/option.rs:1008:5
-note: Run with `RUST_BACKTRACE=1` for a backtrace.
-4, 4, 585446,348829,0, 0,0,9995,244,0
-thread 'thread 'TID-3TID-5' panicked at '' panicked at 'order emptyorder empty', ', libcore/option.rslibcore/option.rs::10081008::55
-
-note: Run with `RUST_BACKTRACE=1` for a backtrace.
-4, 4, 521274,116080,0, 0,0,9993,218,0
-thread 'TID-2' panicked at 'order empty', libcore/option.rs:1008:5
-note: Run with `RUST_BACKTRACE=1` for a backtrace.
-thread 'TID-3' panicked at 'order empty', libcore/option.rs:1008:5
-4, 4, 476226,154098,0, 0,0,9993,199,0
-thread 'thread 'TID-8TID-5' panicked at '' panicked at 'order emptyorder empty', ', libcore/option.rslibcore/option.rs::10081008::55
-
-note: Run with `RUST_BACKTRACE=1` for a backtrace.
-8, 8, 665337,960653,0, 0,0,9997,278,0
-8, 8, 646465,1336065,0, 0,0,9998,271,0
-thread 'thread 'TID-7TID-6' panicked at '' panicked at 'order emptyorder empty', ', libcore/option.rslibcore/option.rs::10081008::55
-
-note: Run with `RUST_BACKTRACE=1` for a backtrace.
-8, 8, 683850,993550,0, 0,0,9996,285,0
-16, 16, 482816,2103837,0, 0,0,10000,182,0
-16, 16, 508116,2271273,0, 0,0,9999,213,0
-16, 16, 468661,2085741,0, 0,0,10000,177,0
+1, 1, 354131,0,0, 0,0,9990,148,0
+1, 1, 360619,0,0, 0,0,9990,151,0
+1, 1, 367512,0,0, 0,0,9990,154,0
+4, 4, 1159615,142,0, 0,0,9992,31,0
+4, 4, 1126770,111,0, 0,0,9992,17,0
+4, 4, 1224982,141,0, 0,0,9991,59,0
+8, 8, 2061037,229,0, 0,0,9993,408,0
+8, 8, 1977712,213,0, 0,0,9993,375,0
+8, 8, 2111040,248,0, 0,0,9993,431,0
+16, 16, 2941661,367,0, 0,0,9995,323,0
+16, 16, 3033133,347,0, 0,0,9995,361,0
+16, 16, 3071585,361,0, 0,0,9995,378,0
+32, 32, 3277622,440,0, 0,0,9997,8,0
+32, 32, 3515313,485,0, 0,0,9998,109,0
+32, 32, 3571340,473,0, 0,0,9997,133,0
+48, 48, 3552150,487,0, 0,0,9998,124,0
+48, 48, 3157978,435,0, 0,0,9999,415,0
+48, 48, 3462755,464,0, 0,0,9998,86,0
