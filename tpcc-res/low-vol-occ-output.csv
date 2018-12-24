@@ -1,31 +1,27 @@
-thread_num,wh_num,success,abort,pc_success,pc_abort,total_time
-1, 1, 326283,0,0, 0, 10000
-1, 1, 323827,0,0, 0, 10000
-1, 1, 315121,0,0, 0, 10000
-1, 1, 314724,0,0, 0, 10000
-1, 1, 313019,0,0, 0, 10000
-4, 4, 1067522,116,0, 0, 10000
-4, 4, 1084322,116,0, 0, 10000
-4, 4, 1088484,137,0, 0, 10000
-4, 4, 1075964,124,0, 0, 10000
-4, 4, 1076193,108,0, 0, 10000
-8, 8, 1872910,209,0, 0, 10000
-8, 8, 1833547,252,0, 0, 10000
-8, 8, 1878568,213,0, 0, 10000
-8, 8, 1926022,222,0, 0, 10000
-8, 8, 1826539,247,0, 0, 10000
-16, 16, 2744815,366,0, 0, 10000
-16, 16, 2685923,310,0, 0, 10000
-16, 16, 2748749,371,0, 0, 10001
-16, 16, 2627747,330,0, 0, 10000
-16, 16, 2859968,373,0, 0, 10000
-32, 32, 3227753,438,0, 0, 10000
-32, 32, 3342317,484,0, 0, 10000
-32, 32, 3204393,404,0, 0, 10000
-32, 32, 3488329,457,0, 0, 10003
-32, 32, 3199814,421,0, 0, 10000
-64, 64, 3379881,460,0, 0, 10001
-64, 64, 3514055,459,0, 0, 10003
-64, 64, 3626627,510,0, 0, 10001
-64, 64, 3537727,478,0, 0, 10001
-64, 64, 3534092,493,0, 0, 10001
+thread_num,wh_num,success,abort,pc_success,pc_abort,mmap_cnt,total_time,log_size,flush_size
+1, 1, 316016,0,0, 0,0,9990,132,0
+1, 1, 353759,0,0, 0,0,9990,148,0
+1, 1, 325193,0,0, 0,0,9991,136,0
+thread 'TID-4' panicked at 'order empty', libcore/option.rs:1008:5
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+4, 4, 585446,348829,0, 0,0,9995,244,0
+thread 'thread 'TID-3TID-5' panicked at '' panicked at 'order emptyorder empty', ', libcore/option.rslibcore/option.rs::10081008::55
+
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+4, 4, 521274,116080,0, 0,0,9993,218,0
+thread 'TID-2' panicked at 'order empty', libcore/option.rs:1008:5
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'TID-3' panicked at 'order empty', libcore/option.rs:1008:5
+4, 4, 476226,154098,0, 0,0,9993,199,0
+thread 'thread 'TID-8TID-5' panicked at '' panicked at 'order emptyorder empty', ', libcore/option.rslibcore/option.rs::10081008::55
+
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+8, 8, 665337,960653,0, 0,0,9997,278,0
+8, 8, 646465,1336065,0, 0,0,9998,271,0
+thread 'thread 'TID-7TID-6' panicked at '' panicked at 'order emptyorder empty', ', libcore/option.rslibcore/option.rs::10081008::55
+
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+8, 8, 683850,993550,0, 0,0,9996,285,0
+16, 16, 482816,2103837,0, 0,0,10000,182,0
+16, 16, 508116,2271273,0, 0,0,9999,213,0
+16, 16, 468661,2085741,0, 0,0,10000,177,0
